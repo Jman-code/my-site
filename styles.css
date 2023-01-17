@@ -107,20 +107,21 @@ profile-pic {
 
 
 }
+.font-bottom {width: 50%;
+            margin: 50px auto 50px auto;}
+
 .egg { margin-top: 20px;
 
 }
 
 .full-dragon {
                 float: left;
-                position: relative;
-                left:200px;
+
 
 }
 
 .world { float: right;
-         position: relative;
-         right:200px;
+
 
 
 }
